@@ -1,0 +1,31 @@
+.progress-container {
+  width: 400px;
+  background-color: #fff;
+  border-radius: 30px;
+  border: 2px solid #3e5b81bb;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 15px;
+  background-color: #3e5b81;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  border-radius: 30px;
+}
+.progress-container-myBarYellow {
+  width: 400px;
+  background-color: #fff;
+  border-radius: 30px;
+  border: 2px solid yellow;
+}
+#myBarYellow {
+  background-color: yellow;
+  width: 0%;
+  height: 15px;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  border-radius: 30px;
+}
